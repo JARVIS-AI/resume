@@ -1,4 +1,7 @@
 # Cyresume
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8037c4d301b047e0bbd18f5fddef54b1)](https://www.codacy.com/app/pshah123/resume?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=pshah123/resume&amp;utm_campaign=Badge_Grade)
+
 A really cool resume template.
 
 I've decided to open source this.
