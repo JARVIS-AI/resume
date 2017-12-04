@@ -4,10 +4,24 @@
 
 A really cool resume template.
 
+[Live @ here.](http://www.priansh.com)
+
+Like the blog link? That's [also open source.](https://github.com/pshah123/masquerade-web)
+
 I've decided to open source this.
+
+The root directory has a single webpage that is extremely simple (minimalist with some css blur effects). There are two directories under the root, `console` and `music`.
+
+Inside `music` there is a simple page with 3 spotify playlist cards.
 
 Inside `console/` you will find several files. The entrypoint, `index.html`, is actually almost entirely blank. `console.js` manages the homepage.
 This is a typeout resume modeled after consoles and terminals such as the bash environment.
+
+The `code` folder under `console` is a codepen inspired minimalist terminal window with some modifications to include links.
+
+The `newspaper` folder has a newspaper style webpage, with the ability to censor everything that isn't inside an `<i>` tag.
+
+The `robots` folder has a neat robot animation that flies in for a minimalist awards list.
 
 Inside `console.js`, you can use the add function and add_normal function to append typeable lines.
 
