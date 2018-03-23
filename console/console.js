@@ -33,16 +33,15 @@ $(document).ready(function () {
     add("It's not like other resumes.");
     add("I was inspired by bash and console/terminal environments.")
     add("From here, you can browse links to my portfolio.");
-    add_normal("<a target='_blank' href='newspaper/index.html'>Click here to view my academic skillset.</a>");
-    add("The above portfolio covers my academic achievements, including standardized test scores and awards.");
+    add_normal("<a target='_blank' href='newspaper/'>Click here to view my academic skillset.</a>");
     add_normal("");
     add("I'm also very involved in the robotics community. Robotics has become one of my passions in the last few years.");
     add_normal("<a target='_blank' href='robots/index.html'>Click here to view a list of my achievements in the field of robotics.</a>");
     add_normal("");
     add("And most of all, I'm a coder.")
-    add_normal("<a target='_blank' href='code/index.html'>Click here to see my life as a coder, minus the coffee.</a>")
-    add_normal("<a target='_blank' href='https://www.github.com/urbanguac'>Here's a github organization with some hand selected projects.</a>")
-    add_normal("<a target='_blank' href='https://www.github.com/pshah123'>And my personal GitHub.</a>")
+    add_normal("<a target='_blank' href='code/'>Click here to see my life as a coder, minus the coffee.</a>")
+    add_normal("<a target='_blank' href='https://www.devpost.com/priansh'>Here are some selected projects.</a>")
+    add_normal("<a target='_blank' href='https://www.github.com/pshah123'>And here are all the projects that I've open sourced!</a>")
     add_normal("")
     add("Trying to get in contact with me professionally?")
     add_normal("Check out my <a target='_blank' href='https://www.linkedin.com/in/priansh'>LinkedIn</a>!")
