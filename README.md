@@ -8,6 +8,8 @@ A really cool resume template.
 
 Like the blog link? That's [also open source.](https://github.com/pshah123/masquerade-web)
 
+Like the secret web link? That's [also open source.](https://github.com/pshah123/secret-web)
+
 I've decided to open source this.
 
 The root directory has a single webpage that is extremely simple (minimalist with some css blur effects). There are two directories under the root, `console` and `music`.
